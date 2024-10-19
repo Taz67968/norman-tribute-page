@@ -26,8 +26,8 @@ h2 {
   text-align: center;
 }
 
-h3{
-    text-align: center;
+h3 {
+  text-align: center;
 }
 
 ul {
@@ -39,10 +39,9 @@ ul {
 
 .heading {
   text-align: center;
-  background-color: rgb(218, 230, 240);
+  background-color: white;
 }
 
 body {
-  background-color:white;
+  background-color: white;
 }
-  
