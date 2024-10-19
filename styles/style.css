@@ -33,3 +33,12 @@ ul {
     text-align: left;
     line-height: 1.6;
 }
+
+.heading {
+    text-align: center;
+    background-color: rgb(218, 230, 240);
+}
+
+body {
+    background-color:white;
+}
